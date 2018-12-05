@@ -1,3 +1,5 @@
+#!/usr/bin/env kotlinc -script
+
 val file = java.io.File("day2.txt")
 
 val lines = file.readLines()

@@ -1,3 +1,5 @@
+#!/usr/bin/env kotlinc -script
+
 val input = java.io.File("day5.txt").readText().trim()
 
 fun String.react(): String {

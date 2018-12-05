@@ -1,3 +1,5 @@
+#!/usr/bin/env kotlinc -script
+
 val input = java.io.File("day3.txt")
 
 data class Square(

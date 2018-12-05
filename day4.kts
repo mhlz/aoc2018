@@ -1,3 +1,4 @@
+#!/usr/bin/env kotlinc -script
 
 data class GuardLog(
 		val guardId: Int? = null,

@@ -1,3 +1,5 @@
+#!/usr/bin/env kotlinc -script
+
 val lines = java.io.File("day1.txt").readLines()
 
 val changes = lines.map { it.toInt() }
